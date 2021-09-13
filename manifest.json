@@ -1,10 +1,10 @@
 {
-  "name": "Solines",
-  "short_name": "Solines",
+  "name": "Metaplex NFT Marketplace",
+  "short_name": "Metaplex NFT Marketplace",
   "display": "standalone",
   "start_url": "./",
   "theme_color": "#002140",
-  "background_color": "#51414F",
+  "background_color": "#001529",
   "icons": [
     {
       "src": "/favicon-16x16.png",
